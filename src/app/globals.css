@@ -105,3 +105,13 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.themeFontColor{
+  color: coral;
+}
+
+tr{
+  cursor: pointer;
+}
+
